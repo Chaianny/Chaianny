@@ -10,7 +10,7 @@
 <p align="left">📚 Atualmente estou me aprofundando Java, logo irei para Kotlin. Tenho um certo conhecimento sobre JavaScript e HTML, pretendo me aprofundar neles também, além do CSS.<br>Pretendo começar React no final desse ano.
 <!-- Dropdown -->
 <details>
-  <summary>👩🏽‍💻 Um pouco mais sobre mim</summary>
+  <summary>👩🏽‍💻 Mais algumas informações sobre mim</summary>
 <p>
   
 </p>
