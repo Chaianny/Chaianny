@@ -46,10 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-<div>
-<h2 align="left"> 📫<b></b>Contato</h2></b>
-
-  </a>
+ </a>
 </div>
 
 ###
