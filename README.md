@@ -1,54 +1,41 @@
-<h1 align="center">Olá, Mundo!
-<h1 align="left">Opa, ae! 👋</h1>
-
-###
-
-<p align="left">Me chamo Chaianny, mas pode me chamar de Anny.</p>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm  Haiêcha Chaianny</h1>
 
 
 
-<p align="left">📚 Atualmente estou me aprofundando Java, logo irei para Kotlin. Tenho um certo conhecimento sobre JavaScript e HTML, pretendo me aprofundar neles também, além do CSS.<br>Pretendo começar React no final desse ano.
-<!-- Dropdown -->
-<details>
-  <summary>👩🏽‍💻 Mais algumas informações sobre mim</summary>
-<p>
-  
-</p>
-  - 💬 Oi, moro atualmente no Brasil. Tenho interesse em Front e Back end, sou apaixonada por Astronomia, filmes de ficção cientifica, jogos eletronicos e gastronomia. 
-</details>
 
-<p>
-  
-</p>
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
 <h2 align="left"> ⚡<b></b>Skills</h2></b>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  
-###
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<br>
+<br>
 </div>
 <h2 align="left"> ⚒️<b></b>Tools</h2></b>
-    <p>
-      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
- </a>
-</div>
+   
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-###
+<a href="https://https://github.com/Chaianny">
+<div align="center">
+  <br>
+    <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaianny&show_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=gotham&locale=pt-br&hide_border=t&order=1" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaianny&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+ 
 </div>
-  
