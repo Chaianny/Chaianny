@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Chaianny&show_icons=true&count_private=true&hide_border=true&title_color=FFD7C4f&icon_color=FFD7C4&text_color=FFD7C4&bg_color=0d1117" alt="Haiêcha Chaianny github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Chaianny&show_icons=true&count_private=true&hide_border=true&title_color=FF9874f&icon_color=FF9874&text_color=FF9874&bg_color=0d1117" alt="Haiêcha Chaianny github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaianny&layout=compact&hide_border=true&title_color=FF9874f&text_color=FF9874&bg_color=0d1117" />
 </div>
 
